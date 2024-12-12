@@ -1,0 +1,173 @@
+@font-face {
+    font-family: 'Urdu';
+    src: /*   url('jameel.woff') format('woff'),    */
+         url('./jameel.ttf') format('truetype');
+}
+.urdu{
+    font-family: "Urdu";
+    text-align: right;
+}
+body{
+    font-family: Arial;
+    padding-top: 10px;
+}
+.dabba {
+    padding: 14px;
+    border: 1px solid grey;
+    overflow: auto;
+}
+.inlinespacedspan {
+  display: inline-block;
+  padding: 0 7px;
+  font-size: 16px;
+}
+.red{
+  color:red;
+}
+.green{
+  color:green;
+}
+a[href="#"] {
+  color: red;
+}
+
+.gos{
+  width: 100%;
+  text-align: center;
+}
+table.gos td {
+  width: 33%;
+}
+table.gos div {
+  font-size: 33px;
+  background: #04aa6d;
+  padding: 13px 2px;
+  color: white;
+}
+.gos span {
+  font-size: 17px;
+  color: red;
+}
+p#wonq {
+  margin: 0;
+  line-height: 16px;
+}
+
+.vertical-menu {
+    width: 100%;
+  }
+  .vertical-menu a {
+    background-color: #a7a7a7;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 20px;
+    border-bottom: 1px solid grey;
+  }
+  .vertical-menu a:hover {
+    background-color: #838383;
+  }
+  .vertical-menu a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+
+
+/*frontpage*/
+.redlarge, .redlarge td{
+color: red !important;
+font-size: 24px;
+}
+
+  /*tools*/
+  input#khewadinpu {
+    padding: 7px;
+    min-width: 290px;
+    display: block;
+    margin: 34px auto;
+}
+p#khewadoudpu {
+  padding: 12px;
+  background: #efeaea;
+  margin: 20px;
+  border: 1px solid #cbcbcb;
+}
+p#khewadoudpu span {
+  display: inline-block;
+  padding: 0 18px;
+}
+input#khasraprofile {
+  padding: 7px;
+  min-width: 290px;
+  display: block;
+  margin: 34px auto;
+}
+
+
+/*dicdion*/
+.dicdion p {
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*shajra nasb*/
+#map {
+  height: 100vh;
+}
+select#persondetail {
+  padding: 7px;
+  min-width: 290px;
+  display: block;
+  margin: 34px auto;
+}
+div#personresul {
+  text-align: center;
+}
+div#personresul img {
+  display: block;
+  max-width: 100%;
+  margin: 30px auto;
+}
+
+
+
+
+
+
+/* map view*/
+#landmap{
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
+  position:relative;
+  
+}
+span.buttonsalib, span.buttonsalia {
+  width: 32px;
+  height: 21px;
+  display: inline-block;
+  background: #04aa6d;
+  color: white;
+  cursor: pointer;
+  margin: 0 4px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+}
+#Layer_1, #lajpgland{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width:100%;
+}

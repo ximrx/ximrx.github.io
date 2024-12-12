@@ -1,0 +1,122 @@
+{
+    "1": {
+        "name": "محمد وسن",
+        "cnic": "273-28-029881",
+        "death": "13-12-2005",
+        "pics": [
+            "1a.jpg",
+            "1b.jpg",
+            "1c.jpg"
+        ],
+        "note": "MISSING NIC"
+    },
+    "2": {
+        "name": "عبدالحق",
+        "cnic": "217-28-302825 , 37401-6173927-5",
+        "death": "30-05-2013",
+        "pics": [
+            "2c.jpg"
+        ],
+        "note": "MISSING CNIC, NIC and images"
+    },
+    "3": {
+        "name": "بلقیس جان",
+        "cnic": "217-34-055321",
+        "death": "01-03-1997",
+        "pics": [
+            "3a.jpg",
+            "3b.jpg",
+            "3c.jpg"
+        ],
+        "note": ""
+    },
+    "4": {
+        "name": "جیفلاں بی",
+        "cnic": "217-24-055303 , 37401-8362200-4",
+        "death": "08-10-2015 Unverified",
+        "pics": [
+            "4a.jpg",
+            "4b.jpg",
+            "4d.jpg",
+            "4e.jpg"
+        ],
+        "note": "MISSING CNIC, DEATH CERTIFICATE"
+    },
+    "5": {
+        "name": "عصمت جان",
+        "cnic": "217-24-055327",
+        "death": "22-03-1992",
+        "pics": [
+            "5a.jpg",
+            "5b.jpg",
+            "5c.jpg"
+        ],
+        "note": ""
+    },
+    "6": {
+        "name": "حاجی فضل احمد",
+        "cnic": "217-06-004792",
+        "death": "12-07-1981",
+        "pics": ["6a.jpg", "6b.jpg", "6c.jpg"],
+        "note": ""
+    },
+    
+    "7": {
+        "name": "نور محمد",
+        "cnic": "",
+        "death": "12-02-1988",
+        "pics": ["7c.jpg"],
+        "note": "MISSING NIC NUMBER"
+    },
+
+    "8": {
+        "name": "رقیہ بیگم",
+        "cnic": "210-45-2203*3 [9|7|1]",
+        "death": "",
+        "pics": [],
+        "note": "CNIC PICS MISSING"
+    },
+
+    "9": {
+        "name": "سید نور",
+        "cnic": "",
+        "death": "29-09-1999",
+        "pics": ["9c.jpg"],
+        "note": "CNIC, CNIC PICS MISSING"
+    },
+
+    "10": {
+        "name": "محمد پہلوان خان",
+        "cnic": "",
+        "death": "29-09-1999",
+        "pics": ["10c.jpg"],
+        "note": "CNIC, CNIC PICS MISSING"
+    },
+
+    "11": {
+        "name": "راجہ نجیب علی",
+        "cnic": "",
+        "death": "12-03-1986",
+        "pics": ["11c.jpg"],
+        "note": "CNIC, CNIC PICS MISSING"
+    },
+
+    "12": {
+        "name": "راجہ نذیر احمد",
+        "cnic": "",
+        "death": "14-08-2007",
+        "pics": ["12c.jpg"],
+        "note": "CNIC, CNIC PICS MISSING"
+    },
+
+    "13": {
+        "name": "سلطان محمد",
+        "cnic": "",
+        "death": "16-09-2016",
+        "pics": ["13c.jpg"],
+        "note": "CNIC, CNIC PICS MISSING"
+    }
+
+
+
+}
